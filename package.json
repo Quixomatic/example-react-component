@@ -1,0 +1,33 @@
+{
+	"name": "example-react",
+	"version": "0.0.1",
+	"private": false,
+	"description": "",
+	"keywords": [
+		"ServiceNow",
+		"Now Experience UI Component",
+		"example-react"
+	],
+	"readme": "./README.md",
+	"engines": {
+		"node": ">=8.6.0",
+		"npm": ">=5.3.0"
+	},
+	"module": "src/index.js",
+	"dependencies": {
+		"@quixomatic/ui-renderer-react": "^1.0.3",
+		"@servicenow/cli-archetype": "22.0.0",
+		"@servicenow/cli-component-archetype": "22.0.0",
+		"@servicenow/library-translate": "quebec",
+		"@servicenow/sass-kit": "quebec",
+		"@servicenow/sass-theme": "quebec",
+		"@servicenow/ui-core": "quebec",
+		"@servicenow/ui-renderer-snabbdom": "quebec",
+		"react": "^18.2.0",
+		"react-dom": "^18.2.0"
+	},
+	"devDependencies": {
+		"@servicenow/cli-archetype-dev": "22.0.0",
+		"@servicenow/cli-component-archetype-dev": "22.0.0"
+	}
+}

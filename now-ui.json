@@ -1,0 +1,15 @@
+{
+	"components": {
+	    "x-312987-example-react": {
+	        "innerComponents": [],
+			"uiBuilder": {
+				"associatedTypes": ["global.core", "global.landing-page"],
+				"label": "My Component",
+				"icon": "document-outline",
+				"description": "A description of my component",
+				"category": "primitives"
+			}
+	    }
+	},
+	"scopeName": "x_312987_example_0"
+}

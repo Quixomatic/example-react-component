@@ -1,0 +1,11 @@
+@import '@servicenow/sass-kit/host';
+
+:host {
+	.example-react-container {
+		user-select: none;
+        color: blue;
+        padding: 20px;
+        border-radius: 4px;
+        border: 3px dashed blue;
+	}
+}
